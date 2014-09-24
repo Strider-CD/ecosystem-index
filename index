@@ -1,36 +1,27 @@
-go-strider
-strider-bitbucket
-strider-blanket
-strider-browserstack
-strider-build-badge
-strider-custom
-strider-docker-build
-strider-docker-ruby
-strider-docker-runner
-strider-docker-slave
-strider-dot-net
-strider-email-notifier
-strider-env
-strider-git
-strider-github
-strider-github-status
-strider-gitlab
-strider-heroku
-strider-jelly
-strider-local
-strider-mailer
-strider-metadata
-strider-node
-strider-python
-strider-qunit
-strider-remote-drone
-strider-remote-worker
-strider-ruby
-strider-runner-core
-strider-sauce
-strider-simple-runner
-strider-slack
-strider-ssh-deploy
-strider-status-report
-strider-travis
-strider-webhooks
+go-strider 0.0.1
+strider-bitbucket 1.0.3
+strider-custom 0.5.3
+strider-docker-build 1.0.1
+strider-docker-runner 1.2.0
+strider-dot-net 0.4.0
+strider-email-notifier 0.4.0
+strider-env 0.4.4
+strider-git 0.2.0
+strider-github 1.2.2
+strider-gitlab 1.0.4
+strider-heroku 0.1.1
+strider-jelly 0.6.0
+strider-local 1.0.0
+strider-mailer 0.2.0
+strider-metadata 0.0.1
+strider-node 0.3.5
+strider-python 0.2.1
+strider-qunit 0.2.0
+strider-ruby 0.0.2
+strider-runner-core 2.0.0
+strider-sauce 0.6.2
+strider-simple-runner 0.13.1
+strider-slack 1.0.2
+strider-ssh-deploy 0.3.4
+strider-status-report 0.0.2
+strider-webhooks 0.1.1
