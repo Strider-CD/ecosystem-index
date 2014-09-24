@@ -25,3 +25,7 @@ git_url: "git://github.com/Strider-CD/strider-ssh-deploy.git"
 Make sure to provide these fields at minimum. They're used by strider to perform plugin management.
 
 Finally, we edit `index` and add `strider-ssh-deploy` to it
+
+## TODO
+
+Make it easier to add your own plugins by providing a script that takes as input the git remote, and modifies `index` as appropriate (by fetching and parsing the package.json to determine version) and adds the YAML metadata file.
