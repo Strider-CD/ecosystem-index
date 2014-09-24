@@ -1,0 +1,88 @@
+id: 14968144
+name: strider-build-badge
+full_name: Strider-CD/strider-build-badge
+owner:
+  login: Strider-CD
+  id: 2199591
+  avatar_url: "https://avatars.githubusercontent.com/u/2199591?v=2"
+  gravatar_id: ""
+  url: "https://api.github.com/users/Strider-CD"
+  html_url: "https://github.com/Strider-CD"
+  followers_url: "https://api.github.com/users/Strider-CD/followers"
+  following_url: "https://api.github.com/users/Strider-CD/following{/other_user}"
+  gists_url: "https://api.github.com/users/Strider-CD/gists{/gist_id}"
+  starred_url: "https://api.github.com/users/Strider-CD/starred{/owner}{/repo}"
+  subscriptions_url: "https://api.github.com/users/Strider-CD/subscriptions"
+  organizations_url: "https://api.github.com/users/Strider-CD/orgs"
+  repos_url: "https://api.github.com/users/Strider-CD/repos"
+  events_url: "https://api.github.com/users/Strider-CD/events{/privacy}"
+  received_events_url: "https://api.github.com/users/Strider-CD/received_events"
+  type: Organization
+  site_admin: false
+private: false
+html_url: "https://github.com/Strider-CD/strider-build-badge"
+description: ""
+fork: true
+url: "https://api.github.com/repos/Strider-CD/strider-build-badge"
+forks_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/forks"
+keys_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/keys{/key_id}"
+collaborators_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/collaborators{/collaborator}"
+teams_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/teams"
+hooks_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/hooks"
+issue_events_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/issues/events{/number}"
+events_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/events"
+assignees_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/assignees{/user}"
+branches_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/branches{/branch}"
+tags_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/tags"
+blobs_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/git/blobs{/sha}"
+git_tags_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/git/tags{/sha}"
+git_refs_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/git/refs{/sha}"
+trees_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/git/trees{/sha}"
+statuses_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/statuses/{sha}"
+languages_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/languages"
+stargazers_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/stargazers"
+contributors_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/contributors"
+subscribers_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/subscribers"
+subscription_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/subscription"
+commits_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/commits{/sha}"
+git_commits_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/git/commits{/sha}"
+comments_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/comments{/number}"
+issue_comment_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/issues/comments/{number}"
+contents_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/contents/{+path}"
+compare_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/compare/{base}...{head}"
+merges_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/merges"
+archive_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/{archive_format}{/ref}"
+downloads_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/downloads"
+issues_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/issues{/number}"
+pulls_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/pulls{/number}"
+milestones_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/milestones{/number}"
+notifications_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/notifications{?since,all,participating}"
+labels_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/labels{/name}"
+releases_url: "https://api.github.com/repos/Strider-CD/strider-build-badge/releases{/id}"
+created_at: "2013-12-05T22:58:08Z"
+updated_at: "2014-08-09T18:48:00Z"
+pushed_at: "2013-12-16T22:33:01Z"
+git_url: "git://github.com/Strider-CD/strider-build-badge.git"
+ssh_url: "git@github.com:Strider-CD/strider-build-badge.git"
+clone_url: "https://github.com/Strider-CD/strider-build-badge.git"
+svn_url: "https://github.com/Strider-CD/strider-build-badge"
+homepage: null
+size: 96
+stargazers_count: 0
+watchers_count: 0
+language: JavaScript
+has_issues: true
+has_downloads: true
+has_wiki: true
+has_pages: false
+forks_count: 1
+mirror_url: null
+open_issues_count: 1
+forks: 1
+open_issues: 1
+watchers: 0
+default_branch: master
+permissions:
+  admin: false
+  push: false
+  pull: true

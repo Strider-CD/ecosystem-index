@@ -1,0 +1,88 @@
+id: 12748675
+name: strider-heroku
+full_name: Strider-CD/strider-heroku
+owner:
+  login: Strider-CD
+  id: 2199591
+  avatar_url: "https://avatars.githubusercontent.com/u/2199591?v=2"
+  gravatar_id: ""
+  url: "https://api.github.com/users/Strider-CD"
+  html_url: "https://github.com/Strider-CD"
+  followers_url: "https://api.github.com/users/Strider-CD/followers"
+  following_url: "https://api.github.com/users/Strider-CD/following{/other_user}"
+  gists_url: "https://api.github.com/users/Strider-CD/gists{/gist_id}"
+  starred_url: "https://api.github.com/users/Strider-CD/starred{/owner}{/repo}"
+  subscriptions_url: "https://api.github.com/users/Strider-CD/subscriptions"
+  organizations_url: "https://api.github.com/users/Strider-CD/orgs"
+  repos_url: "https://api.github.com/users/Strider-CD/repos"
+  events_url: "https://api.github.com/users/Strider-CD/events{/privacy}"
+  received_events_url: "https://api.github.com/users/Strider-CD/received_events"
+  type: Organization
+  site_admin: false
+private: false
+html_url: "https://github.com/Strider-CD/strider-heroku"
+description: Strider plugin for heroku deployment
+fork: false
+url: "https://api.github.com/repos/Strider-CD/strider-heroku"
+forks_url: "https://api.github.com/repos/Strider-CD/strider-heroku/forks"
+keys_url: "https://api.github.com/repos/Strider-CD/strider-heroku/keys{/key_id}"
+collaborators_url: "https://api.github.com/repos/Strider-CD/strider-heroku/collaborators{/collaborator}"
+teams_url: "https://api.github.com/repos/Strider-CD/strider-heroku/teams"
+hooks_url: "https://api.github.com/repos/Strider-CD/strider-heroku/hooks"
+issue_events_url: "https://api.github.com/repos/Strider-CD/strider-heroku/issues/events{/number}"
+events_url: "https://api.github.com/repos/Strider-CD/strider-heroku/events"
+assignees_url: "https://api.github.com/repos/Strider-CD/strider-heroku/assignees{/user}"
+branches_url: "https://api.github.com/repos/Strider-CD/strider-heroku/branches{/branch}"
+tags_url: "https://api.github.com/repos/Strider-CD/strider-heroku/tags"
+blobs_url: "https://api.github.com/repos/Strider-CD/strider-heroku/git/blobs{/sha}"
+git_tags_url: "https://api.github.com/repos/Strider-CD/strider-heroku/git/tags{/sha}"
+git_refs_url: "https://api.github.com/repos/Strider-CD/strider-heroku/git/refs{/sha}"
+trees_url: "https://api.github.com/repos/Strider-CD/strider-heroku/git/trees{/sha}"
+statuses_url: "https://api.github.com/repos/Strider-CD/strider-heroku/statuses/{sha}"
+languages_url: "https://api.github.com/repos/Strider-CD/strider-heroku/languages"
+stargazers_url: "https://api.github.com/repos/Strider-CD/strider-heroku/stargazers"
+contributors_url: "https://api.github.com/repos/Strider-CD/strider-heroku/contributors"
+subscribers_url: "https://api.github.com/repos/Strider-CD/strider-heroku/subscribers"
+subscription_url: "https://api.github.com/repos/Strider-CD/strider-heroku/subscription"
+commits_url: "https://api.github.com/repos/Strider-CD/strider-heroku/commits{/sha}"
+git_commits_url: "https://api.github.com/repos/Strider-CD/strider-heroku/git/commits{/sha}"
+comments_url: "https://api.github.com/repos/Strider-CD/strider-heroku/comments{/number}"
+issue_comment_url: "https://api.github.com/repos/Strider-CD/strider-heroku/issues/comments/{number}"
+contents_url: "https://api.github.com/repos/Strider-CD/strider-heroku/contents/{+path}"
+compare_url: "https://api.github.com/repos/Strider-CD/strider-heroku/compare/{base}...{head}"
+merges_url: "https://api.github.com/repos/Strider-CD/strider-heroku/merges"
+archive_url: "https://api.github.com/repos/Strider-CD/strider-heroku/{archive_format}{/ref}"
+downloads_url: "https://api.github.com/repos/Strider-CD/strider-heroku/downloads"
+issues_url: "https://api.github.com/repos/Strider-CD/strider-heroku/issues{/number}"
+pulls_url: "https://api.github.com/repos/Strider-CD/strider-heroku/pulls{/number}"
+milestones_url: "https://api.github.com/repos/Strider-CD/strider-heroku/milestones{/number}"
+notifications_url: "https://api.github.com/repos/Strider-CD/strider-heroku/notifications{?since,all,participating}"
+labels_url: "https://api.github.com/repos/Strider-CD/strider-heroku/labels{/name}"
+releases_url: "https://api.github.com/repos/Strider-CD/strider-heroku/releases{/id}"
+created_at: "2013-09-11T05:52:19Z"
+updated_at: "2014-09-01T08:14:10Z"
+pushed_at: "2014-09-01T14:19:38Z"
+git_url: "git://github.com/Strider-CD/strider-heroku.git"
+ssh_url: "git@github.com:Strider-CD/strider-heroku.git"
+clone_url: "https://github.com/Strider-CD/strider-heroku.git"
+svn_url: "https://github.com/Strider-CD/strider-heroku"
+homepage: null
+size: 271
+stargazers_count: 1
+watchers_count: 1
+language: JavaScript
+has_issues: true
+has_downloads: true
+has_wiki: true
+has_pages: false
+forks_count: 4
+mirror_url: null
+open_issues_count: 2
+forks: 4
+open_issues: 2
+watchers: 1
+default_branch: master
+permissions:
+  admin: false
+  push: false
+  pull: true
