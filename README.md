@@ -16,19 +16,19 @@ The version numbers indicated must map to tags on the plugin's repository. e.g. 
 
 ## Example
 
-Let's add a new plugin called strider-ssh-deploy, uploaded to github at https://github.com/Strider-CD/my-strider-plugin and tagged with a version number '1.0.0'
+Let's add a new plugin called my-strider-plugin, uploaded to github at https://github.com/Strider-CD/my-strider-plugin and tagged with a version number '1.0.0'
 
-Create a file `plugins/strider-ssh-deploy` with content:
+Create a file `plugins/my-strider-plugin` with content:
 
 ```yaml
 description: Plugin for Strider-CD to deploy with SSH
 html_url: "https://github.com/Strider-CD/my-strider-plugin"
-git_url: "git://github.com/Strider-CD/strider-ssh-deploy.git"
+git_url: "git://github.com/Strider-CD/my-strider-plugin.git"
 ```
 
 Make sure to provide these fields at minimum. They're used by strider to perform plugin management.
 
-Finally, we edit `stable.yml` and add `strider-ssh-deploy: 1.0.0` to it to signify that the plugin is stable at version 1.0.0
+Finally, we edit `stable.yml` and add `my-strider-plugin: 1.0.0` to it to signify that the plugin is stable at version 1.0.0
 
 ## TODO
 
