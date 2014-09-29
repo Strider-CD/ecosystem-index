@@ -8,11 +8,15 @@ Each plugin is represented as a YAML file with attributes provided in the same s
 
 This repository is queried by the strider plugin manager (currently in development)
 
-If you've created a new plugin for Strider, please add the YAML file in `plugins` and make a corresponding entry in `index`
+If you've created a new plugin for Strider, please add the YAML file in `plugins` and, if stable, make a corresponding entry in `stable.yml`
+
+## Tagging
+
+The version numbers indicated must map to tags on the plugin's repository. e.g. A plugin at version 1.0.0 implies that fetching that plugin's repository at tag '1.0.0' will yield the desired source code.
 
 ## Example
 
-Let's add a new plugin called strider-ssh-deploy, uploaded to github at https://github.com/Strider-CD/my-strider-plugin
+Let's add a new plugin called strider-ssh-deploy, uploaded to github at https://github.com/Strider-CD/my-strider-plugin and tagged with a version number '1.0.0'
 
 Create a file `plugins/strider-ssh-deploy` with content:
 
@@ -24,7 +28,7 @@ git_url: "git://github.com/Strider-CD/strider-ssh-deploy.git"
 
 Make sure to provide these fields at minimum. They're used by strider to perform plugin management.
 
-Finally, we edit `index` and add `strider-ssh-deploy` to it
+Finally, we edit `stable.yml` and add `strider-ssh-deploy: 1.0.0` to it to signify that the plugin is stable at version 1.0.0
 
 ## TODO
 
