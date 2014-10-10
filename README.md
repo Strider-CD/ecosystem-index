@@ -1,4 +1,4 @@
-This repository contains an index strider plugins.
+This repository contains an index strider plugins for consumption by Strider via [strider-ecosystem-client](https://github.com/Strider-CD/ecosystem-client)
 
 Each plugin is represented as a YAML file with attributes provided in the same style as the Github API.
 
