@@ -22,7 +22,7 @@ docker-build:
 
 docker:
   description: run jobs inside Docker
-  tag: 1.2.0
+  tag: 1.3.0
   repo: https://github.com/Strider-CD/strider-docker-runner
   module_name: strider-docker-runner
   type: runner
