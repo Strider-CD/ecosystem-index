@@ -20,7 +20,7 @@ docker-build:
   module_name: strider-docker-build
   type: job
 
-docker-runner:
+docker:
   description: run jobs inside Docker
   tag: 1.2.0
   repo: https://github.com/Strider-CD/strider-docker-runner
@@ -34,7 +34,7 @@ dot-net:
   module_name: strider-dot-net
   type: job
 
-email-notifier:
+emailnotifier:
   description: send email notifications
   tag: 0.4.1
   repo: https://github.com/Strider-CD/strider-email-notifier
@@ -125,7 +125,7 @@ slack:
   module_name: strider-slack
   type: job
 
-ssh-deploy:
+ssh_deploy:
   description: ssh deployment
   tag: 0.3.5
   repo: https://github.com/Strider-CD/strider-ssh-deploy
@@ -145,3 +145,10 @@ webhooks:
   repo: https://github.com/Strider-CD/strider-webhooks
   module_name: strider-webhooks
   type: job
+
+buildbadge:
+  description: build status badges
+  tag: 0.0.0
+  repo: https://github.com/Strider-CD/strider-build-badge
+  module_name: strider-build-badge
+  type: basic
