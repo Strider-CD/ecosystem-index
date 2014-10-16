@@ -1,0 +1,105 @@
+---
+bitbucket:
+  description: bitbucket git provider
+  version: 1.0.4
+  archive: https://github.com/Strider-CD/strider-bitbucket/archive/1.0.4.tar.gz
+
+custom:
+  description: custom scripts
+  version: 0.5.3
+  archive: https://github.com/Strider-CD/strider-custom/archive/0.5.3.tar.gz
+
+docker-build:
+  description: build Docker images
+  version: 1.0.1
+  archive: https://github.com/Strider-CD/strider-docker-build/archive/1.0.1.tar.gz
+
+docker-runner:
+  description: run jobs inside Docker
+  version: 1.2.0
+  archive: https://github.com/Strider-CD/strider-docker-runner/archive/v1.2.0.tar.gz
+  
+dot-net:
+  description: run .NET builds
+  version: 0.4.0
+  archive: https://github.com/Strider-CD/strider-dot-net/archive/0.4.0.tar.gz
+
+email-notifier:
+  description: send email notifications
+  version: 0.4.1
+  archive: https://github.com/Strider-CD/strider-email-notifier/archive/0.4.1.tar.gz
+
+env:
+  description: set custom environment variables
+  version: 0.4.5
+  archive: https://github.com/Strider-CD/strider-env/archive/0.4.5.tar.gz
+
+git:
+  description: basic git provider
+  version: 0.2.1
+  archive: https://github.com/Strider-CD/strider-git/archive/0.2.1.tar.gz
+
+github: 
+  description: github git provider
+  version: 1.3.0
+  archive: https://github.com/Strider-CD/strider-github/archive/1.3.0.tar.gz
+
+gitlab:
+  description: gitlab git provider
+  version: 1.0.4
+  archive: https://github.com/Strider-CD/strider-gitlab/archive/1.0.4.tar.gz
+
+heroku:
+  description: heroku deployment
+  version: 0.1.1
+  archive: https://github.com/Strider-CD/strider-heroku/archive/0.1.1.tar.gz
+
+metadata:
+  description: expose job metadata as environment variables
+  version: 0.0.2
+  archive: https://github.com/Strider-CD/strider-metadata/archive/0.0.2.tar.gz
+
+node:
+  description: run node.js tests
+  version: 0.3.6
+  archive: https://github.com/Strider-CD/strider-node/archive/0.3.6.tar.gz
+
+python:
+  description: run python tests
+  version: 0.2.2
+  archive: https://github.com/Strider-CD/strider-python/archive/0.2.2.tar.gz
+
+ruby:
+  description: run ruby tests
+  version: 0.0.3
+  archive: https://github.com/Strider-CD/strider-ruby/archive/0.0.3.tar.gz
+
+sauce:
+  description: selenium tests in the cloud
+  version: 0.6.3
+  archive: https://github.com/Strider-CD/strider-sauce/archive/0.6.3.tar.gz
+
+simple-runner:
+  description: in-process job runner
+  version: 0.13.1
+  archive: https://github.com/Strider-CD/strider-simple-runner/archive/0.13.1.tar.gz
+
+slack:
+  description: Slack notifications
+  version: 1.0.2
+  archive: https://github.com/Strider-CD/strider-slack/archive/1.0.2.tar.gz
+
+ssh-deploy:
+  description: ssh deployment
+  version: 0.3.5
+  archive: https://github.com/Strider-CD/strider-ssh-deploy/archive/0.3.5.tar.gz
+
+status-report:
+  description: summary data api
+  version: 0.0.2
+  archive: https://github.com/Strider-CD/strider-status-report/archive/0.0.2.tar.gz
+
+webhooks:
+  description: fire build status webhooks
+  version: 0.1.1
+  archive: https://github.com/Strider-CD/strider-webhooks/archive/v0.1.1.tar.gz
