@@ -30,7 +30,7 @@ email-notifier:
   archive: https://github.com/Strider-CD/strider-email-notifier/archive/0.4.1.tar.gz
 
 env:
-  description: set custom environment variables
+  description: set custom env vars
   version: 0.4.5
   archive: https://github.com/Strider-CD/strider-env/archive/0.4.5.tar.gz
 
@@ -55,7 +55,7 @@ heroku:
   archive: https://github.com/Strider-CD/strider-heroku/archive/0.1.1.tar.gz
 
 metadata:
-  description: expose job metadata as environment variables
+  description: expose job data as env vars
   version: 0.0.2
   archive: https://github.com/Strider-CD/strider-metadata/archive/0.0.2.tar.gz
 
