@@ -1,3 +1,5 @@
+# ecosystem-index
+
 This repository contains an index strider plugins for consumption by Strider via [strider-ecosystem-client](https://github.com/Strider-CD/ecosystem-client)
 
 Each plugin is represented as an entry in `plugins.yml`
