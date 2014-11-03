@@ -127,7 +127,7 @@ slack:
 
 ssh_deploy:
   description: ssh deployment
-  tag: 0.3.5
+  tag: 0.4.0
   repo: https://github.com/Strider-CD/strider-ssh-deploy
   module_name: strider-ssh-deploy
   type: job
