@@ -34,7 +34,7 @@ dot-net:
   module_name: strider-dot-net
   type: job
 
-emailnotifier:
+email-notifier:
   description: send email notifications
   tag: 0.4.1
   repo: https://github.com/Strider-CD/strider-email-notifier
@@ -125,7 +125,7 @@ slack:
   module_name: strider-slack
   type: job
 
-ssh_deploy:
+ssh-deploy:
   description: ssh deployment
   tag: 0.4.0
   repo: https://github.com/Strider-CD/strider-ssh-deploy
@@ -146,7 +146,7 @@ webhooks:
   module_name: strider-webhooks
   type: job
 
-buildbadge:
+build-badge:
   description: build status badges
   tag: 0.0.0
   repo: https://github.com/Strider-CD/strider-build-badge
