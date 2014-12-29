@@ -15,7 +15,7 @@ custom:
 
 docker-build:
   description: build Docker images
-  tag: 1.0.1
+  tag: 1.1.0
   repo: https://github.com/Strider-CD/strider-docker-build
   module_name: strider-docker-build
   type: job
