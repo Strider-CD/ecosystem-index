@@ -159,3 +159,10 @@ artifact-repository:
   repo: https://github.com/tbouron/strider-artifact-repository
   module_name: strider-artifact-repository
   type: job
+
+foodcritic:
+  description: Check your Chef cookbooks for common problems
+  tag: 1.0.1
+  repo: https://github.com/logankoester/strider-foodcritic
+  module_name: strider-foodcritic
+  type: job
