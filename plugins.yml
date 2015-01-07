@@ -8,7 +8,7 @@ bitbucket:
 
 custom:
   description: custom scripts
-  tag: 0.5.4
+  tag: 0.5.5
   repo: https://github.com/Strider-CD/strider-custom
   module_name: strider-custom
   type: job
