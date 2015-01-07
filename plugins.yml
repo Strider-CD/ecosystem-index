@@ -49,7 +49,7 @@ emailnotifier:
 
 env:
   description: set custom environment variables
-  tag: 0.4.5
+  tag: 0.4.6
   repo: https://github.com/Strider-CD/strider-env
   module_name: strider-env
   name: Environment Variables
