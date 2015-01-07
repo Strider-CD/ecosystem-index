@@ -22,6 +22,7 @@ artifact-repository:
   tag: 1.0.0
   repo: https://github.com/tbouron/strider-artifact-repository
   module_name: strider-artifact-repository
+  name: Artifact Repository
   type: job
 ```
 
@@ -34,5 +35,7 @@ The top-level key, `artifact-repository`, must match the `id` of the plugin, as 
 `repo` must correspond to an HTTPS path that we can checkout with git. Github URLs, for example, work.
 
 `module_name` must correspond to the `name` field of the plugin's `package.json` -- it is what is `require()`'d by Strider when loading your plugin.
+
+`name` is a pretty name for display on the plugin page, it's optional and falls back to the top-level key
 
 `type` must correspond to the `type` of the plugin, as defined in the `strider` section of the plugin's `package.json` file.
