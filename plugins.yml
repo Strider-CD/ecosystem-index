@@ -113,7 +113,7 @@ python:
 
 ruby:
   description: run ruby tests
-  tag: 0.0.4
+  tag: 0.0.5
   repo: https://github.com/Strider-CD/strider-ruby
   module_name: strider-ruby
   name: Ruby
