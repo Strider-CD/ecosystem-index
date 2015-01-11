@@ -105,7 +105,7 @@ node:
 
 python:
   description: run python tests
-  tag: 0.2.2
+  tag: 0.2.3
   repo: https://github.com/Strider-CD/strider-python
   module_name: strider-python
   name: Python
