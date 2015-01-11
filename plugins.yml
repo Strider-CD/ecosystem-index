@@ -169,7 +169,7 @@ webhooks:
 
 buildbadge:
   description: build status badges
-  tag: 0.0.0
+  tag: 0.1.0
   repo: https://github.com/Strider-CD/strider-build-badge
   module_name: strider-build-badge
   name: Build Badge
