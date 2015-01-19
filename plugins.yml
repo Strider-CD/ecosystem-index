@@ -65,7 +65,7 @@ git:
 
 github:
   description: github git provider
-  tag: 1.3.1
+  tag: 1.3.2
   repo: https://github.com/Strider-CD/strider-github
   module_name: strider-github
   name: Github
