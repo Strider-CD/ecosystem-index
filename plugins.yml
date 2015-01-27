@@ -81,7 +81,7 @@ gitlab:
 
 heroku:
   description: heroku deployment
-  tag: 0.1.1
+  tag: 0.1.2
   repo: https://github.com/Strider-CD/strider-heroku
   module_name: strider-heroku
   name: Heroku
