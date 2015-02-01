@@ -89,7 +89,7 @@ heroku:
 
 metadata:
   description: expose job metadata as environment variables
-  tag: 0.0.2
+  tag: 0.0.3
   repo: https://github.com/Strider-CD/strider-metadata
   module_name: strider-metadata
   name: Metadata
