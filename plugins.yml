@@ -6,6 +6,14 @@ bitbucket:
   module_name: strider-bitbucket
   name: Bitbucket
   type: provider
+  
+bower:
+  description: Bower install and caching plugin
+  tag: 0.0.1
+  repo: https://github.com/Strider-CD/strider-bower
+  module_name: strider-bower
+  name: Bower
+  type: job
 
 custom:
   description: custom scripts
