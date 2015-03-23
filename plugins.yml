@@ -105,7 +105,7 @@ metadata:
 
 node:
   description: run node.js tests
-  tag: 0.5.2
+  tag: 0.6.0
   repo: https://github.com/Strider-CD/strider-node
   module_name: strider-node
   name: Node
