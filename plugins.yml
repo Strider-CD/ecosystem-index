@@ -81,7 +81,7 @@ github:
 
 gitlab:
   description: gitlab git provider
-  tag: 1.0.4
+  tag: 1.0.5
   repo: https://github.com/Strider-CD/strider-gitlab
   module_name: strider-gitlab
   name: Gitlab
