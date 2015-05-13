@@ -177,7 +177,7 @@ status-report:
 
 webhooks:
   description: fire build status webhooks
-  tag: 0.1.1
+  tag: 0.1.2
   repo: https://github.com/Strider-CD/strider-webhooks
   module_name: strider-webhooks
   name: Web Hooks
