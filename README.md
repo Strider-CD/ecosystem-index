@@ -8,7 +8,7 @@ Each plugin is represented as an entry in `plugins.yml`
 
 ## Tagging
 
-**IMPORTANT!!!**
+**:warning: IMPORTANT!!!**
 
 The version numbers indicated must map to tags on the plugin's repository. e.g. A plugin at version 1.0.0 implies that fetching that plugin's repository at tag '1.0.0' will yield the desired source code. **THIS MEANS A TAG NAME v1.0.0 WILL NOT MATCH AGAINST A TAG INDICATED AT '1.0.0' IN THE INDEX** 
 
