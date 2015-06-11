@@ -78,6 +78,14 @@ github:
   module_name: strider-github
   name: Github
   type: provider
+  
+github-status:
+  description: github pull-request notifications
+  tag: v1.0.0
+  repo: https://github.com/Strider-CD/strider-github-status
+  module_name: strider-github-status
+  name: Github Status
+  type: job
 
 gitlab:
   description: gitlab git provider
