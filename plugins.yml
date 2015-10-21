@@ -9,7 +9,7 @@ bitbucket:
   
 bower:
   description: Bower install and caching plugin
-  tag: 0.1.4
+  tag: 0.1.5
   repo: https://github.com/Strider-CD/strider-bower
   module_name: strider-bower
   name: Bower
