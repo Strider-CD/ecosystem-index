@@ -161,7 +161,7 @@ simple-runner:
 
 slack:
   description: Slack notifications
-  tag: 2.0.0
+  tag: 2.0.1
   repo: https://github.com/Strider-CD/strider-slack
   module_name: strider-slack
   name: Slack
