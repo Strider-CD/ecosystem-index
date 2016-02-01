@@ -17,7 +17,7 @@ bower:
 
 custom:
   description: custom scripts
-  tag: 0.6.0
+  tag: 0.6.1
   repo: https://github.com/Strider-CD/strider-custom
   module_name: strider-custom
   name: Custom
