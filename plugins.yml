@@ -1,4 +1,12 @@
 ---
+aws_codedeploy:
+  description: integrate AWS CodeDeploy
+  tag: 0.1.2
+  repo: https://github.com/flxbe/strider-aws-codedeploy.git
+  module_name: strider-aws-codedeploy
+  name: AWS CodeDeploy
+  type: job
+
 bitbucket:
   description: bitbucket git provider
   tag: 1.3.0
@@ -6,7 +14,7 @@ bitbucket:
   module_name: strider-bitbucket
   name: Bitbucket
   type: provider
-  
+
 bower:
   description: Bower install and caching plugin
   tag: 0.1.5
@@ -78,7 +86,7 @@ github:
   module_name: strider-github
   name: Github
   type: provider
-  
+
 github-status:
   description: Github Pull Request test status
   tag: 1.1.0
