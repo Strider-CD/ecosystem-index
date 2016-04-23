@@ -57,7 +57,7 @@ dot-net:
 
 emailnotifier:
   description: send email notifications
-  tag: 0.4.3
+  tag: 0.4.5
   repo: https://github.com/Strider-CD/strider-email-notifier
   module_name: strider-email-notifier
   name: Email Notifier
