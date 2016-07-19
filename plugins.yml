@@ -41,7 +41,7 @@ docker_build:
 
 docker:
   description: run jobs inside Docker
-  tag: 1.5.0
+  tag: 1.5.1
   repo: https://github.com/Strider-CD/strider-docker-runner
   module_name: strider-docker-runner
   name: Docker Runner
