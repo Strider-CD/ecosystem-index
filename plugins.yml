@@ -161,7 +161,7 @@ sauce:
 
 simple-runner:
   description: in-process job runner
-  tag: 0.15.2
+  tag: 0.15.3
   repo: https://github.com/Strider-CD/strider-simple-runner
   module_name: strider-simple-runner
   name: Simple Runner
