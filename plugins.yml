@@ -73,7 +73,7 @@ env:
 
 git:
   description: basic git provider
-  tag: 0.2.5
+  tag: 0.2.6
   repo: https://github.com/Strider-CD/strider-git
   module_name: strider-git
   name: Git
