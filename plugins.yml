@@ -111,14 +111,6 @@ heroku:
   name: Heroku
   type: job
 
-hg:
-  description: basic mercurial provider
-  tag: 0.2.3
-  repo: https://github.com/Mixaill/strider-hg
-  module_name: strider-hg
-  name: Mercurial
-  type: provider
-
 metadata:
   description: expose job metadata as environment variables
   tag: 0.0.3
