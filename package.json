@@ -1,0 +1,32 @@
+{
+  "name": "ecosystem-index",
+  "version": "2.2.3",
+  "description": "This repository contains an index strider plugins for consumption by Strider via [strider-ecosystem-client](https://github.com/Strider-CD/ecosystem-client)",
+  "main": "test/test.js",
+  "scripts": {
+    "test": "npm run tests",
+    "lint": "eslint test",
+    "tests": "mocha  -R spec test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Strider-CD/ecosystem-index.git"
+  },
+  "keywords": [
+    "git",
+    "strider"
+  ],
+  "author": "Maik Ellerbrock <opensource@frapsoft.com> (https://github.com/ellerbrock)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Strider-CD/ecosystem-index/issues"
+  },
+  "homepage": "https://github.com/Strider-CD/ecosystem-index#readme",
+  "dependencies": {
+    "console-emoji": "^0.0.2",
+    "expect.js": "^0.3.1",
+    "js-yaml": "^3.7.0",
+    "mocha": "^3.2.0",
+    "request": "^2.79.0"
+  }
+}
