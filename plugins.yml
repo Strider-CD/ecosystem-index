@@ -89,7 +89,7 @@ github:
 
 github-status:
   description: Github Pull Request test status
-  tag: 2.0.0
+  tag: 2.1.0
   repo: https://github.com/Strider-CD/strider-github-status
   module_name: strider-github-status
   name: Github Status
