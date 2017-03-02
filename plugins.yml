@@ -201,7 +201,7 @@ buildbadge:
 
 artifact-repository:
   description: save and expose artifacts built by strider
-  tag: 1.0.0
+  tag: 1.0.1
   repo: https://github.com/tbouron/strider-artifact-repository
   module_name: strider-artifact-repository
   name: Artifact Repository
