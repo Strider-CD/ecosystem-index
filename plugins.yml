@@ -169,7 +169,7 @@ slack:
 
 ssh_deploy:
   description: ssh deployment
-  tag: 1.0.0
+  tag: 1.0.1
   repo: https://github.com/Strider-CD/strider-ssh-deploy
   module_name: strider-ssh-deploy
   name: SSH Deploy
