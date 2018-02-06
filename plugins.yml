@@ -214,3 +214,11 @@ foodcritic:
   module_name: strider-foodcritic
   name: Foodcritic
   type: job
+
+telegram:
+  description: Telegram notifications
+  tag: 1.0.0
+  repo: https://github.com/johannhospice/strider-telegram
+  module_name: strider-telegram
+  name: Telegram
+  type: job
