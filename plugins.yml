@@ -217,7 +217,7 @@ foodcritic:
 
 telegram:
   description: Telegram notifications
-  tag: 1.0.0
+  tag: 1.0.1
   repo: https://github.com/johannhospice/strider-telegram
   module_name: strider-telegram
   name: Telegram
