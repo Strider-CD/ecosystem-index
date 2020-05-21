@@ -39,3 +39,7 @@ The top-level key, `artifact-repository`, must match the `id` of the plugin, as 
 `name` is a pretty name for display on the plugin page, it's optional and falls back to the top-level key
 
 `type` must correspond to the `type` of the plugin, as defined in the `strider` section of the plugin's `package.json` file.
+
+## Knowing Which Need Updates
+
+See https://github.com/Strider-CD/npm-outdated
