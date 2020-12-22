@@ -222,3 +222,27 @@ telegram:
   module_name: strider-telegram
   name: Telegram
   type: job
+
+kong:
+  description: register kong service and route
+  tag: 1.0.0
+  repo: https://github.com/caizx666/strider-kong
+  module_name: strider-kong
+  name: kong
+  type: job
+
+mongo:
+  description: create mongo db and user
+  tag: 1.0.0
+  repo: https://github.com/caizx666/strider-mongo
+  module_name: strider-mongo
+  name: mongo
+  type: job
+
+humpback:
+  description: deploy to humpback cluster
+  tag: 1.0.0
+  repo: https://github.com/caizx666/strider-humpback
+  module_name: strider-humpback
+  name: humpback
+  type: job
