@@ -1,0 +1,208 @@
+---
+aws_codedeploy:
+  description: integrate AWS CodeDeploy
+  tag: 0.1.6
+  repo: https://github.com/flxbe/strider-aws-codedeploy.git
+  module_name: strider-aws-codedeploy
+  name: AWS CodeDeploy
+  type: job
+
+bitbucket:
+  description: bitbucket git provider
+  tag: 1.4.3
+  repo: https://github.com/Strider-CD/strider-bitbucket
+  module_name: strider-bitbucket
+  name: Bitbucket
+  type: provider
+
+bower:
+  description: Bower install and caching plugin
+  tag: 0.1.6
+  repo: https://github.com/Strider-CD/strider-bower
+  module_name: strider-bower
+  name: Bower
+  type: job
+
+custom:
+  description: custom scripts
+  tag: 1.0.0
+  repo: https://github.com/Strider-CD/strider-custom
+  module_name: strider-custom
+  name: Custom
+  type: job
+
+docker_build:
+  description: build Docker images
+  tag: 1.2.0
+  repo: https://github.com/Strider-CD/strider-docker-build
+  module_name: strider-docker-build
+  name: Docker Build
+  type: job
+
+docker:
+  description: run jobs inside Docker
+  tag: 1.5.2
+  repo: https://github.com/Strider-CD/strider-docker-runner
+  module_name: strider-docker-runner
+  name: Docker Runner
+  type: runner
+
+dot-net:
+  description: run .NET builds
+  tag: 0.4.0
+  repo: https://github.com/Strider-CD/strider-dot-net
+  module_name: strider-dot-net
+  name: .NET
+  type: job
+
+emailnotifier:
+  description: send email notifications
+  tag: 1.0.0
+  repo: https://github.com/Strider-CD/strider-email-notifier
+  module_name: strider-email-notifier
+  name: Email Notifier
+  type: job
+
+env:
+  description: set custom environment variables
+  tag: 0.5.1
+  repo: https://github.com/Strider-CD/strider-env
+  module_name: strider-env
+  name: Environment Variables
+  type: job
+
+git:
+  description: basic git provider
+  tag: 0.2.6
+  repo: https://github.com/Strider-CD/strider-git
+  module_name: strider-git
+  name: Git
+  type: provider
+
+xxx:
+  description: xxx git provider
+  tag: 2.3.3
+  repo: https://github.com/Strider-CD/strider-xxx
+  module_name: strider-xxx
+  name: xxx
+  type: provider
+
+gitlab:
+  description: gitlab git provider
+  tag: 1.2.6
+  repo: https://github.com/Strider-CD/strider-gitlab
+  module_name: strider-gitlab
+  name: Gitlab
+  type: provider
+
+heroku:
+  description: heroku deployment
+  tag: 0.1.2
+  repo: https://github.com/Strider-CD/strider-heroku
+  module_name: strider-heroku
+  name: Heroku
+  type: job
+
+metadata:
+  description: expose job metadata as environment variables
+  tag: 0.0.3
+  repo: https://github.com/Strider-CD/strider-metadata
+  module_name: strider-metadata
+  name: Metadata
+  type: job
+
+node:
+  description: run node.js tests
+  tag: 1.0.2
+  repo: https://github.com/Strider-CD/strider-node
+  module_name: strider-node
+  name: Node
+  type: job
+
+python:
+  description: run python tests
+  tag: 0.2.3
+  repo: https://github.com/Strider-CD/strider-python
+  module_name: strider-python
+  name: Python
+  type: job
+
+ruby:
+  description: run ruby tests
+  tag: 0.0.5
+  repo: https://github.com/Strider-CD/strider-ruby
+  module_name: strider-ruby
+  name: Ruby
+  type: job
+
+sauce:
+  description: selenium tests in the cloud
+  tag: 0.6.3
+  repo: https://github.com/Strider-CD/strider-sauce
+  module_name: strider-sauce
+  name: Sauce Labs
+  type: job
+
+xxx-runner:
+  description: in-process job runner
+  tag: 1.0.1
+  repo: https://github.com/Strider-CD/strider-xxx-runner
+  module_name: strider-xxx-runner
+  name: xxx Runner
+  type: runner
+
+slack:
+  description: Slack notifications
+  tag: 2.0.1
+  repo: https://github.com/Strider-CD/strider-slack
+  module_name: strider-slack
+  name: Slack
+  type: job
+
+ssh_deploy:
+  description: ssh deployment
+  tag: 1.0.0
+  repo: https://github.com/Strider-CD/strider-ssh-deploy
+  module_name: strider-ssh-deploy
+  name: SSH Deploy
+  type: job
+
+status-report:
+  description: summary data api
+  tag: 0.0.2
+  repo: https://github.com/Strider-CD/strider-status-report
+  module_name: strider-status-report
+  name: Status Report
+  type: job
+
+webhooks:
+  description: fire build status webhooks
+  tag: 0.1.4
+  repo: https://github.com/Strider-CD/strider-webhooks
+  module_name: strider-webhooks
+  name: Web Hooks
+  type: job
+
+buildbadge:
+  description: build status badges
+  tag: 0.1.0
+  repo: https://github.com/Strider-CD/strider-build-badge
+  module_name: strider-build-badge
+  name: Build Badge
+  type: basic
+
+artifact-repository:
+  description: save and expose artifacts built by strider
+  tag: 1.0.0
+  repo: https://github.com/tbouron/strider-artifact-repository
+  module_name: strider-artifact-repository
+  name: Artifact Repository
+  type: job
+
+foodcritic:
+  description: Check your Chef cookbooks for common problems
+  tag: 1.0.1
+  repo: https://github.com/logankoester/strider-foodcritic
+  module_name: strider-foodcritic
+  name: Foodcritic
+  type: job
